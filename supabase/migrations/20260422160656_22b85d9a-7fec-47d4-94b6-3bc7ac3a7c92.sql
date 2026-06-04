@@ -1,0 +1,1 @@
+ALTER VIEW public.marketplace_sellers_public SET (security_invoker = true);

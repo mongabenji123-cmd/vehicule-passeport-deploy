@@ -1,0 +1,1 @@
+DROP POLICY IF EXISTS "Les propriétaires gèrent leur propre garage" ON public.garages;
